@@ -1,7 +1,7 @@
 # Predicting-Air-Quality
 
-# Team Members: 
-# Varsha Suresh (015245347) 
+##  Team Members: 
+## Varsha Suresh (015245347) 
 # Lasya Bheemendra Nalini (014618695) 
 # Auni Bagchi (011256895) 
 
