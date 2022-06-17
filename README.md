@@ -1,9 +1,9 @@
 # Predicting-Air-Quality
 
 ##  Team Members: 
-## Varsha Suresh (015245347) 
-# Lasya Bheemendra Nalini (014618695) 
-# Auni Bagchi (011256895) 
+#### Varsha Suresh (015245347) 
+#### Lasya Bheemendra Nalini (014618695) 
+#### Auni Bagchi (011256895) 
 
 # Project Title: Predicting Air Quality and Pollutant Levels in the US
 
