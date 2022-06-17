@@ -61,8 +61,9 @@ Before selecting Gradient Boosting Regressor, few other algorithms were tested f
 2.	SO2/SO2_algorithms_AQI.ipynb
 
 The comparison of different algorithms for other pollutants was included within these files:
-3.	CO/CO_GradientBoost.ipynb 
-4.	NO2/NO2LinearRegression.ipynb
-5.	Ozone/OzoneGradientBoost.ipynb
+
+1.	CO/CO_GradientBoost.ipynb 
+2.	NO2/NO2LinearRegression.ipynb
+3.	Ozone/OzoneGradientBoost.ipynb
 
 
