@@ -58,11 +58,3 @@ The comparison of different algorithms for other pollutants was included within 
 4.	FA21 CMPE 255 Term Project/NO2/NO2LinearRegression.ipynb
 5.	FA21 CMPE 255 Term Project/Ozone/OzoneGradientBoost.ipynb
 
-
-
-Order of Execution (Steps to run code):
-1.	Run all files mentioned in section “Preprocessing and prediction code Files”.
-2.	Run “FA21 CMPE 255 Term Project/Combined Pollutants/PollutantMerge_final.ipynb” for obtaining the result file for tableau visualization.
-3.	Install Tableau Desktop to view the final graph generated. The file can be found at  “FA21 CMPE 255 Term Project/Visualizations/AQIDays1.twbx”. OR navigate to “https://public.tableau.com/shared/JF5Q3GYT6?:display_count=n&:origin=viz_share_link” to view the live dashboard.
-4.	Run “FA21 CMPE 255 Term Project/Association Analysis/AssociationAnalysis_TrainData.ipynb” file to see Association analysis results.
-
