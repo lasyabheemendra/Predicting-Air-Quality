@@ -1,5 +1,12 @@
 # Predicting-Air-Quality
 
+Team Members: 
+Varsha Suresh (015245347) 
+Lasya Bheemendra Nalini (014618695) 
+Auni Bagchi (011256895) 
+
+Project Title: Predicting Air Quality and Pollutant Levels in the US
+![image](https://user-images.githubusercontent.com/59815536/174260146-5233798b-3a7e-45cd-8b53-44b49f610fb0.png)
 
 
 This directory contains the work done by all team members of Group 9 towards the term project. This document can be used as a README file and will describe the different files present here along with the purposes they serve.
