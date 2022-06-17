@@ -66,5 +66,3 @@ Order of Execution (Steps to run code):
 3.	Install Tableau Desktop to view the final graph generated. The file can be found at  “FA21 CMPE 255 Term Project/Visualizations/AQIDays1.twbx”. OR navigate to “https://public.tableau.com/shared/JF5Q3GYT6?:display_count=n&:origin=viz_share_link” to view the live dashboard.
 4.	Run “FA21 CMPE 255 Term Project/Association Analysis/AssociationAnalysis_TrainData.ipynb” file to see Association analysis results.
 
-
-![image](https://user-images.githubusercontent.com/59815536/174254581-0f1e4f7e-aa8a-49ec-95a6-063c9e080fa7.png)
