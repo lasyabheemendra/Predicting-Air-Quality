@@ -7,6 +7,8 @@
 
 # Project Title: Predicting Air Quality and Pollutant Levels in the US
 
+Project Report: https://github.com/lasyabheemendra/Predicting-Air-Quality/blob/main/FA21%20CMPE%20255%20Term%20Project%20Report%20-%20Group%209.docx
+
 This directory contains the work done by all team members of Group 9 towards the term project. This document can be used as a README file and will describe the different files present here along with the purposes they serve.
 
 Dataset:
